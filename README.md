@@ -4,7 +4,7 @@ Examen parcial de la asignatura **Programación II** del [Grado de Ingeniería I
 
 ## 📝 Instrucciones
 
-* Cada ejercicio debe ir en un paquete y respetar el esqueleto inicial del proyecto tal como lo indicado [acá](esqueleto/examen-parcial-p2).
+* Cada ejercicio debe ir en un paquete y respetar el esqueleto inicial del proyecto tal como lo indicado [acá](entregas/RoldanRabagoDaniel/examen-parcial-p2).
 * El presente examen debe desarrollarse con los conceptos de programación vistos en clase hasta la sesión anterior a este examen.
 * Se deben además respetar los conceptos de código limpio:
   * Indentación.
@@ -36,12 +36,12 @@ mascotas, según se especifica en el diagrama de clases proporcionado. El sistem
 desde un archivo utilizando la clase `FileHandler`, y debe pasar todas las pruebas proporcionadas. Con esta solución, 
 la veterinaria "Mascotas Felices" podrá mejorar la gestión de sus citas y clientes, logrando una mayor eficiencia en su funcionamiento.
 
-Implementar las funcionalidades basándonos en el [diagrama UML](esqueleto/examen-parcial-p2/src/main/ex1/ex1-0.png) planteado para que los tests pasen satisfactoriamente 
+Implementar las funcionalidades basándonos en el [diagrama UML](entregas/RoldanRabagoDaniel/examen-parcial-p2/src/main/ex1/ex1-0.png) planteado para que los tests pasen satisfactoriamente 
 desarrolladas en el paquete **test.ex1**. 
 > Puede cambiar/agregar en las clases lo que considere oportuno para la resolución del ejercicio.
 
 ### Diagrama de clases:
-[![](esqueleto/examen-parcial-p2/src/main/ex1/ex1-0.png)](esqueleto/examen-parcial-p2/src/main/ex1/ex1.puml)
+[![](entregas/RoldanRabagoDaniel/examen-parcial-p2/src/main/ex1/ex1-0.png)](entregas/RoldanRabagoDaniel/examen-parcial-p2/src/main/ex1/ex1.puml)
 
 > Los siguientes test los encontrará en el paquete `test.ex1`
 
@@ -123,7 +123,7 @@ Salida esperada:
 
 Implemente la superclase `Shape` y sus subclases `Circle`, `Rectangle` y `Square`, como se muestra en el diagrama de clases.
 ### Diagrama de clases:
-[![](esqueleto/examen-parcial-p2/src/main/ex2/ex2.png)](esqueleto/examen-parcial-p2/src/main/ex2/ex2.puml)
+[![](entregas/RoldanRabagoDaniel/examen-parcial-p2/src/main/ex2/ex2.png)](entregas/RoldanRabagoDaniel/examen-parcial-p2/src/main/ex2/ex2.puml)
 
 > `Shape` es una clase abstracta que contiene 2 métodos abstractos: `getArea()` y `getPerimeter()`, donde sus subclases 
 > concretas deben proporcionar su implementación. Todas las variables de instancia tendrán acceso protegido, es decir, 
